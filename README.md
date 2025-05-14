@@ -18,3 +18,7 @@ This is a multimodal AI web app built with **Streamlit** and powered by **Google
 - NLP Text Completion
 - Image Understanding / Caption Generation
 - Multimodal AI Demos and Prototyping
+
+## 📸 Preview
+
+![App Screenshot](preview.png)
