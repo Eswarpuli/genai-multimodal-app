@@ -2,6 +2,9 @@
 
 This is a multimodal AI web app built with **Streamlit** and powered by **Google's Gemini 2.5 API**, enabling both **text-to-text** and **image-to-text** generation.
 
+[![Live App](https://img.shields.io/badge/🔗%20Live%20App-Streamlit-success?style=for-the-badge&logo=streamlit)](https://your-app-name.streamlit.app)
+
+
 ## 🔧 Features
 - 🤖 **Text Generation**: Enter a prompt and get intelligent, contextual completions.
 - 🖼️ **Image Captioning**: Upload an image to receive a detailed description using Gemini's vision capabilities.
