@@ -1,4 +1,4 @@
-# 🧠 Gemini AI - Multimodal Generator (Text + Image)
+# Gemini AI - Multimodal Generator (Text + Image)
 
 This is a multimodal AI web app built with **Streamlit** and powered by **Google's Gemini 2.5 API**, enabling both **text-to-text** and **image-to-text** generation.
 
