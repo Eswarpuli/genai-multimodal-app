@@ -4,24 +4,40 @@ This is a multimodal AI web app built with **Streamlit** and powered by **Google
 
 [![Live App](https://img.shields.io/badge/🔗%20Live%20App-Streamlit-success?style=for-the-badge&logo=streamlit)](https://genai-multimodal-app-ds5ur657ijt47cj2qnk7nz.streamlit.app/)
 
+---
 
 ## 🔧 Features
-- 🤖 **Text Generation**: Enter a prompt and get intelligent, contextual completions.
-- 🖼️ **Image Captioning**: Upload an image to receive a detailed description using Gemini's vision capabilities.
-- 🌐 Built with **Streamlit** for real-time interactive UI.
-- 🧠 Powered by **Generative AI (LLMs + Vision)** from Google.
+
+- 🤖 **Text Generation**: Enter a prompt and receive intelligent, contextual completions using Gemini's LLM capabilities.
+- 🖼️ **Image Captioning**: Upload an image and get a detailed description using Gemini's vision model.
+- ⚡ **Updated UI**: Clean and intuitive layout with improved user experience.
+- 🌐 Built with **Streamlit** for responsive, real-time interaction.
+- 🧠 Powered by **Google Generative AI** (LLM + Vision multimodal models).
+
+---
 
 ## 🛠️ Tech Stack
+
 - Python
 - Streamlit
-- Google Generative AI (Gemini)
+- Google Generative AI (Gemini 2.5)
 - PIL (Python Imaging Library)
 
+---
+
 ## 📌 Use Cases
-- NLP Text Completion
+
+- Natural Language Text Completion
 - Image Understanding / Caption Generation
-- Multimodal AI Demos and Prototyping
+- AI Demos and Multimodal Prototypes
+
+---
 
 ## 📸 Preview
 
-![App Screenshot](preview.png)
+<p align="center">
+  <img src="preview.png" alt="App Preview" width="700">
+</p>
+
+
+
